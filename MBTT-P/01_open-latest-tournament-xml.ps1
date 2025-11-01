@@ -1,8 +1,8 @@
 ﻿param (
-    [string]$TableNumber
+    [string]$TableNumber = 1141793836
 )
 
-$TableNumber = 1141793836
+# $TableNumber 
 
 $tournamentPath = "C:\Users\cnua\AppData\Local\Betfair Poker\data\cnuapkr\History\Data\Tournaments"
 
